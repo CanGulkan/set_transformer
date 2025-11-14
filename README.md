@@ -4,6 +4,12 @@ Official PyTorch implementation of the paper
 [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks
 ](http://proceedings.mlr.press/v97/lee19d.html).
 
+## 📚 Documentation
+
+- **[SUMMARY.md](SUMMARY.md)** - Visual overview and quick reference (2 minutes) ⚡
+- **[GETTING_STARTED.md](GETTING_STARTED.md)** - Quick start guide (5 minutes) 🚀
+- **[EXPLANATION.md](EXPLANATION.md)** - Complete explanation of the repository and how to use it 📖
+
 ## Requirements
 
 - Python 3
@@ -11,6 +17,11 @@ Official PyTorch implementation of the paper
 - matplotlib
 - scipy
 - tqdm
+
+**Installation:**
+```bash
+pip install torch>=1.0 matplotlib scipy tqdm
+```
 
 ## Abstract
 
@@ -33,6 +44,10 @@ experiments in the [paper](http://proceedings.mlr.press/v97/lee19d.html).
 ### Maximum Value Regression
 
 This experiment is reproduced in `max_regression_demo.ipynb`.
+
+```bash
+jupyter notebook max_regression_demo.ipynb
+```
 
 ### Amortized Clustering
 
