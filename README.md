@@ -6,8 +6,9 @@ Official PyTorch implementation of the paper
 
 ## 📚 Documentation
 
-- **[GETTING_STARTED.md](GETTING_STARTED.md)** - Quick start guide (5 minutes)
-- **[EXPLANATION.md](EXPLANATION.md)** - Complete explanation of the repository and how to use it
+- **[SUMMARY.md](SUMMARY.md)** - Visual overview and quick reference (2 minutes) ⚡
+- **[GETTING_STARTED.md](GETTING_STARTED.md)** - Quick start guide (5 minutes) 🚀
+- **[EXPLANATION.md](EXPLANATION.md)** - Complete explanation of the repository and how to use it 📖
 
 ## Requirements
 
